@@ -1,70 +1,85 @@
-
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href='https://api.whatsapp.com/send?phone=19505274134'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
-    <a href='mailto:bayzidalways@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
-    <a href='https://www.linkedin.com/in/md-bayzid-211b67345'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
-    <a href='https://x.com/bayzidalways'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
+    <a href="https://api.whatsapp.com/send?phone=19505274134"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+    <a href="mailto:bayzidalways@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/md-bayzid-211b67345"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://x.com/bayzidalways"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+BAYZID!;" />
-</h1>
+
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+MD+BAYZID!;+Aspiring+AI%2FML+Engineer" />
+  </h1>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="AI and technology animation"/>
 </div>
 
 ---
 
-### :man_technologist: About Me :
+### 🤖 About Me
 
-I'm a Web Developer <img  src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"  width="30"> from Bangladesh.
+I'm an aspiring **AI/ML Engineer** from Bangladesh, passionate about using Artificial Intelligence and Machine Learning to solve real-world problems. I enjoy exploring intelligent systems, experimenting with new technologies, and turning ideas into practical solutions.
 
-- :telescope: I specialize in building Frontend and Backend applications.
-
-- 🔈 Fluent in English, Chinese (speaking, reading, and writing).
-
-- :zap: Continuously expanding knowledge in Web technologies and software development.
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<img  src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,flask,django,sass,nodejs,express,mongodb,mysql,python,git"  width={100}/><br>
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
+- 👁️ Exploring Computer Vision, image processing, and intelligent image recognition.
+- 📊 Interested in Data Science, Big Data Analytics, and data-driven solutions.
+- 🌱 Continuously learning and building projects to strengthen my AI/ML skills.
+- 🎓 Aspiring to pursue a master's degree in an advanced computing field.
+- 🌐 Fluent in English and Chinese (speaking, reading, and writing).
+- ⚡ Believe in continuous learning, curiosity, and building technology that makes a difference.
 
 ---
 
-### :fire: My Stats :
+### 🧠 Languages and Technologies
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bayzidalways&theme=dark&hide_border=true&border_radius=20&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,react,nextjs,tailwind,nodejs,express,mongodb,mysql,git,github,vscode" alt="Programming languages and development tools"/>
+</div>
 
-[![MD BAYZID's GitHub stats](https://github-readme-stats.vercel.app/api?username=bayzidalways&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+### 🛠️ AI/ML and Data Science
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayzidalways&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-412991?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-00599C?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</div>
 
-<!--
+---
 
-**bayzidalways/bayzid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔥 GitHub Stats
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bayzidalways&theme=dark&hide_border=true&border_radius=20&mode=weekly" alt="GitHub contribution streak"/>
 
-- 🌱 I’m currently learning ...
+  <br/>
 
-- 👯 I’m looking to collaborate on ...
+  <img src="https://github-readme-stats.vercel.app/api?username=bayzidalways&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515" alt="MD Bayzid's GitHub stats"/>
 
-- 🤔 I’m looking for help with ...
+  <br/>
 
-- 💬 Ask me about ...
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayzidalways&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515" alt="Most used programming languages"/>
 
-- 📫 How to reach me: ...
+</div>
 
-- 😄 Pronouns: ...
+---
 
-- ⚡ Fun fact: ...
+### 🚀 My Goals
 
--->
+- Build practical AI/ML projects that solve real-world challenges.
+- Develop expertise in Machine Learning, Deep Learning, and Computer Vision.
+- Explore advanced computing research and emerging technologies.
+- Prepare for graduate studies and contribute to meaningful technological innovation.
+
+---
+
+<div align="center">
+  <h3>💡 Always Learning, Always Building!</h3>
+  <img src="https://komarev.com/ghpvc/?username=bayzidalways&style=for-the-badge&color=0e75b6" alt="Profile views"/>
+</div>
